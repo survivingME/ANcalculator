@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Experiment1_Calculator</string>
+    <string name="str_unit_conversion">进制转换</string>
+    <string name="str_calcu">计算器</string>
+
+    <string name="str_default_result">0</string>
+</resources>
