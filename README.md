@@ -1,3 +1,3 @@
 # ANcalculator
-Android Ex about calculator
-Try to install SDK 25.1 to proceed and run
+Android Ex about calculator.
+Try to install SDK 25.1 to compile and run
