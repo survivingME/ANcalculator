@@ -13,6 +13,8 @@ Calci-kernel开源地址：https://github.com/Iraka-C/Calci-kernel
 ## 现在存在的问题
 
 ·上帝模式输入可以随意输入非计算用字符
+
 ·mainActivity中的"i/x"键无用
+
 ·计算进制x-x时存在BUG
 
